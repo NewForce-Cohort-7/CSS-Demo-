@@ -1,0 +1,40 @@
+body {
+    background-color: cornsilk;
+}
+
+article {
+    border: 2px black solid;
+    margin: 2em ;
+    padding: 1em;
+}
+aside {
+    border: 2px black solid;
+    margin: 2em ;
+    width: 25%;
+    padding: 1em;
+
+
+}
+#mainContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 33%;
+    height: auto;
+}
+.thing {
+    display: flex;
+    align-items: center;
+    margin: 1em;
+}
+p{
+    margin: 1em;
+    font-size: 2em;
+    border: 1px black solid;
+    padding: 10px;
+}
+li {
+    font-size: 1.5em;
+}
